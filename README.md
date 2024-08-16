@@ -23,7 +23,6 @@ Table of Contents
 
 * Libraries Used
 
-* How to Run
 
 # Project Overview
 
@@ -98,7 +97,11 @@ Certain days had bookings exceeding the capacity, indicating possible data entry
 Luxury category rooms (RT4) had higher revenue realization, justifying their premium pricing.
 
 # Libraries Used
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
