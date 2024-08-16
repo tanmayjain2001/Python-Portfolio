@@ -3,7 +3,7 @@ Welcome to my Python Portfolio repository! This repository contains a collection
 
 
 # Table of Contents -
-(1.) Hotel Booking Data Analysis
+# (1.) Hotel Booking Data Analysis
 
 This project involves a thorough analysis of hotel booking data to uncover insights, identify patterns, and clean and transform the data for better usability. The data comprises multiple datasets, including booking details, hotel information, room categories, and aggregated bookings.
 
