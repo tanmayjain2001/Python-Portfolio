@@ -105,3 +105,56 @@ numpy
 matplotlib
 
 seaborn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# (2.) Flipkart Web Scraping Project
+This project demonstrates web scraping using Python to extract product data from Flipkart. The main goal was to gather detailed information about Smart Locks available on the platform, such as:
+
+Brand Name
+
+Price
+
+Rating
+
+Rating Count
+
+Review Count
+
+Product Ranking
+
+Product URL
+
+# Key Features:
+
+Utilized libraries such as requests, BeautifulSoup, and pandas for scraping and data manipulation.
+
+Cleaned and structured the extracted data for further analysis.
+
+Saved the data into a CSV file for easy access and use in future analysis or visualization.
+
+# Potential Use Cases:
+
+Analyzing product trends and pricing in the Smart Lock market.
+
+Understanding customer preferences based on ratings and reviews.
+
+Gaining insights into brand popularity through rankings and SKU counts.
+
+
+
+
+
